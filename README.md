@@ -1,6 +1,6 @@
-# Kanri (kanri)
+# E-Market
 
-Kanri
+E-Market
 
 ## Install the dependencies
 ```bash
